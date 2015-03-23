@@ -27,7 +27,7 @@ useful. For example, source “10100101” is known as “Ext Comb /Electric Gen
 
 Questions
 
-The exploratory plots address the following questions using various plotting systems in R. 
+The exploratory plots addressed the following questions using various plotting systems in R. 
  
 plot1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 

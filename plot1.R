@@ -1,6 +1,6 @@
 #!/usr/bin/R
 #
-# A script to analyse and create a plot1
+# A script to analyse and create plot1
 #
 # by: Francis Kessie
 #
